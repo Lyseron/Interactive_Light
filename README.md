@@ -2,9 +2,10 @@
 
 Interactive Light is an Arduino-based prototype that controls a light depending on movement or presence.
 
-The idea is to create a soft interactive lighting system that reacts when someone gets close to or moves away from a specific area, such as a bed, a desk, or a room entrance.
+It is designed to make waking up and falling asleep feel smoother and more natural. The idea is to gradually adjust the light based on the user’s movement: the light can slowly turn on when someone gets out of bed, and gently fade out when they go to sleep.
 
-This project was made as a physical prototype to explore electronics, sensors, light control, and real-world interaction through code.
+This project was built as a physical prototype to explore electronics, sensors, light control, and real-world interaction through code.
+
 
 ## Project idea
 
